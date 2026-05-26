@@ -1,0 +1,13 @@
+.Title {
+  text-align: center;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+
+.Time{
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(167, 167, 255);
+}
