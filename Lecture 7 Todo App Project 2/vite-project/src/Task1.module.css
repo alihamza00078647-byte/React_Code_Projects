@@ -1,0 +1,23 @@
+.Task-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 15px;
+}
+
+.Task1{
+    font-weight: 600;
+    font-size: larger;
+    margin-top: 10px;
+    color: red;
+    display: flex;
+    align-items: center;
+}
+
+
+.btnPad {
+    margin-top: 10px;
+    width: 4.3rem;
+    height: 2.4rem;
+    padding: 6px;
+}
