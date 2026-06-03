@@ -1,0 +1,8 @@
+.list-item-color{
+    background-color: rgb(254, 142, 142);
+    color: rgb(140, 255, 140);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
