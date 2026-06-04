@@ -1,0 +1,10 @@
+#screen{
+    height: 22%;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(188, 187, 187);
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+}

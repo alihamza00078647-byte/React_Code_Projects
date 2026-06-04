@@ -1,0 +1,33 @@
+.CalBody {
+    margin: 10px auto;
+    height: 470px;
+    width: 330px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 2px grey;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.CalBody:hover{
+    transform: translateY(-2px);
+    transition: transform 0.6s linear;
+    box-shadow: 0px 3px 3px grey;
+}
+
+
+
+.body{
+    height: 80%;
+    width: 100%;
+    background-color: #F4F4F9;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+
+
